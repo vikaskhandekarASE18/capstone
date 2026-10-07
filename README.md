@@ -8,8 +8,6 @@ A full-stack e-commerce bookstore built with **React + TypeScript + Vite** (fron
 
 > Start locally following the setup instructions below.
 
-**Demo credentials:** `demo@bookstore.com` / `password123`
-
 ---
 
 ## 📋 Features
